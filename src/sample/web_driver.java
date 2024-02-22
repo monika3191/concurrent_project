@@ -16,9 +16,10 @@ public class web_driver {
 		//obj_name.get("address")
 		driver.get("https://www.rahulshettyacademy.com/AutomationPractice/");
 		System.out.println("Hello");
-	
-		
-
+	System.out.println("som changes");
+	System.out.println("som changes");	
+	System.out.println("som changes");
+	System.out.println("som changes");
 	}
 
 }
